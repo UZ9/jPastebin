@@ -1,6 +1,9 @@
 jPastebin
 =========
 
+### Fork Note
+The main intent of this fork is to have a release, as for some odd reason jitpack was acting up when trying to import via commit hash.
+
 ### About
 
 jPastebin is a complete pastebin.com API wrapper for Java. It's an implementation of the full [pastebin API](http://pastebin.com/api/ "Pastebin API reference").
